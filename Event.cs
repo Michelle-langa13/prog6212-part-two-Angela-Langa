@@ -1,6 +1,6 @@
 ﻿namespace EventManagementAPI.Models
 {
-    public class Event
+    public class Events
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty; // event_name
