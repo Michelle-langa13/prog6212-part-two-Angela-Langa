@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using EventManagementAPI.Data;
+using EventManagementAPI.Data;.
 
 var builder = WebApplication.CreateBuilder(args);
 
