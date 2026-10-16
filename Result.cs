@@ -1,6 +1,6 @@
 ﻿namespace EventManagementAPI.Models
 {
-    public class Result
+    public class Results
     {
         public int Id { get; set; }
         public int EnrolmentId { get; set; }
