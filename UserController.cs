@@ -6,7 +6,7 @@ using EventManagementAPI.Helpers;
 
 namespace EventManagementAPI.Controllers
 {
-    [ApiController]
+    [ApiController].
     [Route("api/user")]
     public class UserController : ControllerBase
     {
