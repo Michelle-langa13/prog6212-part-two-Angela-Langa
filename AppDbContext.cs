@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using EventManagementAPI.Models;
 
-namespace EventManagementAPI.Data
+namespace EventManagementAPI.Data.
 {
     public class AppDbContext : DbContext
     {
