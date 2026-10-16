@@ -4,7 +4,7 @@ using EventManagementAPI.Data;
 using EventManagementAPI.Models;
 using EventManagementAPI.Helpers;
 
-namespace EventManagementAPI.Controllers
+namespace EventManagementAPI.Controllers.
 {
     [ApiController]
     [Route("api/events")]
