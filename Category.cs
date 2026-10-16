@@ -1,6 +1,6 @@
 ﻿namespace EventManagementAPI.Models
 {
-    public class Category
+    public class Categories
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty; // e.g. Under 20, Senior, 10km, 21km
