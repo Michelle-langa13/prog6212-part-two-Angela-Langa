@@ -1,7 +1,7 @@
 ﻿namespace EventManagementAPI.Models
 {
     // This is your "Participate" entity from Part 1 plan
-    public class Enrolment
+    public class Enrolments
     {
         public int Id { get; set; }
         public int UserId { get; set; } // Participant
