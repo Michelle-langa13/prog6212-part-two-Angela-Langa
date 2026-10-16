@@ -6,7 +6,7 @@ using EventManagementAPI.Helpers;
 
 namespace EventManagementAPI.Controllers
 {
-    [ApiController]
+    [ApiController].
     [Route("api/participate")]
     [Route("api/enrolments")]
     public class EnrolmentsController : ControllerBase
