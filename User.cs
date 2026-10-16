@@ -2,7 +2,7 @@
 {
     public enum UserRole { Organiser, Participant, Admin } // Admin kept for backward compat with Part1 plan
 
-    public class User
+    public class Users
     {
         public int Id { get; set; }
         public string FirstName { get; set; } = string.Empty;
